@@ -1,4 +1,14 @@
 # Baltimore-Children-Population-DATA
+  The city of Baltimore has notoriously faced negative population growth rates, but this has also led to an aging population for the city. This is further compounded by the fact that household size in Baltimore is quickly declining. As someone working for the mayor’s office, we would like to know: what policy areas we must reinforce to increase the number of children in the city and combat the aging population issue?  We considered the factors of household income, fraction of the population married, and job density as possible factors contributing to this issue.  Our end result demonstrated that fraction of the population married and job density were the two factors having the highest impact on the number of children, suggesting that policy should focus on these two areas.
+
+## Why is this a challenge for Baltimore?
+  This business question is crucial for the city of Baltimore to address, because a declining population has serious economic consequences. For context, since 2010, Baltimore City has lost 3% of its population, or 18,500 residents, and its population just fell below 600,000 for the first time in over a century. Moreover, the city is aging, with the Baltimore City Department of Aging predicting that 25% of the city would be a senior by 2020, outnumbering school children in that year. In addition to this, the average household size has dropped steadily to about 2.23, with an influx of millenials unable to curb the population loss. 
+  
+  For a city with a debt of over $3billion dollars, having to allocate more funds towards pension programs and retirement funds can be burdensome, especially when there is a decline in the labor force whose taxes would pay for these programs. Losing children and family households means a  potential brain drain for Baltimore, and a drop of outside investment into the city, reducing economic stimulus. For both the senior citizens and families in question, this loss translates to less investment in infrastructure such as transportation and public education and facilities, furthering the cycle of depopulation. Essentially, today’s generation in Baltimore runs the risk of not having enough children to replace itself, placing further strain on an already burdened urban economy. In order to tackle this, the city government must figure out what is contributing to the decline in number of children in the city. 
+  
+  ## Our Solution
+  
+  
 
 
 
