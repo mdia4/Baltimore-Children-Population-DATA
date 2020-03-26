@@ -30,9 +30,6 @@
   Ultimately, as policy makers, we suggest that to bolster the number of children and families in the city, Baltimore fund and focus the issues that cater the most to them. Investing in public goods and setting up Baltimore to be economically attractive is essential to abating depopulation.
 
   
-
-
-
 ## Step-by-Step Instructions for Excel Data Manipulation
 1. Begin by obtaining the csv files for Number of Children, Fraction Married, Household Income, and Job Density.
 2. Starting with the Fraction Married file use a VLOOKUP function to match each of the other files.  We use the tract number as the lookup value.
@@ -42,4 +39,21 @@
 6. Create a multiple regression using Fraction Married, Household Income, and Job Density as the x-values and Number of Children as the y-value.  We will use the Data Analysis Toolpack Regression function to do this.
 7. Create a multiple regression using just Fraction Married and Job Density as the x-values and Number of Children as the y-value.  Once againe we use the Data Analysis Toolpack Regression function to do this.
 8. Create a correlation using the Data Analysis Toolpack Correlation function.  For the selected range select all of the values in the columns for all 4 variables.
+
+
+## Sources
+https://www.opportunityatlas.org/
+https://www.brookings.edu/research/are-the-promises-of-job-density-taking-hold-in-cities/
+https://www.forbes.com/sites/nextavenue/2019/08/25/is-an-aging-population-hurting-the-u-s-economy/#86d1df83aa10
+https://nypost.com/2019/04/19/census-estimates-show-baltimores-population-continues-to-plummet/
+https://www.baltimoresun.com/maryland/baltimore-county/cng-co-at-to-senior-alone-aging-20190916-xz5utajnmvc73btcdtwsofdazy-story.html
+https://www.bizjournals.com/baltimore/news/2019/01/29/baltimores-debt-shakes-out-to-14k-per-taxpayer.html
+https://www.government.nl/topics/population-decline/causes-and-effects-of-population-decline
+https://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-rodricks-small-households-population-decline-letter-20190613-story.html
+https://www.washingtonpost.com/local/baltimore-sees-biggest-population-loss-in-single-year-since-2001-census-estimates-show/2019/04/21/f601f560-62b9-11e9-9ff2-abc984dc9eec_story.html
+https://www.baltimoresun.com/opinion/columnists/dan-rodricks/bs-md-rodricks-column-population-0612-story.html
+https://comebackcity.us/2013/12/09/millennials-lead-baltimore-forward/
+https://www.baltimoresun.com/maryland/baltimore-city/bs-md-census-estimate-population-20190416-story.html
+https://www.towncharts.com/Maryland/Demographics/Baltimore-city-MD-Demographics-data.html
+
 
