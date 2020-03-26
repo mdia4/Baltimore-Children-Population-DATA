@@ -1,4 +1,4 @@
-# Baltimore-Children-Population-DATA
+# Addressing Baltimore's Aging Population
   The city of Baltimore has notoriously faced negative population growth rates, but this has also led to an aging population for the city. This is further compounded by the fact that household size in Baltimore is quickly declining. As someone working for the mayor’s office, we would like to know: what policy areas we must reinforce to increase the number of children in the city and combat the aging population issue?  We considered the factors of household income, fraction of the population married, and job density as possible factors contributing to this issue.  Our end result demonstrated that fraction of the population married and job density were the two factors having the highest impact on the number of children, suggesting that policy should focus on these two areas.
 
 ## Why is this a challenge for Baltimore?
